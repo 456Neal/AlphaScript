@@ -1,0 +1,24 @@
+createScript: (alpha)
+
+determine(value) {
+        utilize / * / (input * input = answer)
+rule: answer (is=) output (input * multiplier(input) =)
+
+     utilize / - / (input - input = answer)
+rule: answer (is=) output (input - sub*trahend(input) =)
+
+     utilize / + / (input + input = answer)
+rule: answer (is=) output (input + addhend(input) =)
+
+     utilize / / / (input / input = answer)
+rule: answer (is=) output (input / divadehnd(input) =)
+
+group (L3 (to-) L14) (as=) {symbol}
+
+determine(value) based( +/*/-/// )
+
+if(equation.git) notReconized }
+
+{ use{equation2.git}
+
+   
